@@ -1,0 +1,39 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 37.5rem) {
+   
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 37.5rem) {
+}
+
+/* Medium devices (landscape tablets, 767px and down) */
+@media only screen and (max-width: 47.94rem) {
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 48rem) {
+  
+}
+
+/* Large devices (laptops/desktops, 990px and down) */
+@media only screen and (max-width: 61.94rem) {
+}
+
+/* Large devices (laptops/desktops, 992px and down) */
+@media (max-width: 62rem) {
+}
+
+/* For Selecting only specific brakpoint  */
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+  
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 62rem) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 75rem) {
+}
